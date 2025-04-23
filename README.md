@@ -31,7 +31,6 @@
 <div align="start">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img margin-top="10px" padding-top="10px" height="30px" width="30px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3ARobot-framework-logo.png&psig=AOvVaw2cyIZgl2Cm-RRzvbVusGrV&ust=1740595919816000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDl956_34sDFQAAAAAdAAAAABAE" tooltip="ROBOT">
   <img margin-top="10px" padding-top="10px" height="30px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
