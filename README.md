@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img margin-top="10px" padding-top="10px" height="30px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
