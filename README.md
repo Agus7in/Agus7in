@@ -9,14 +9,9 @@
   <li>I currently learning <strong>React</strong> ⚛️</li>
 </ul>
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agus7in&theme=blue-green">
-  <a target="_blank" align="center">
-    <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-  </a>
-</div>
 
-<h1>&nbsp;Contact Me</h1>
+
+<h1>✉&nbsp;Contact Me</h1>
 <ul>
   <li>✉ agustinmartinez729@gmail.com</li>
   <li>
