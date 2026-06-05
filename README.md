@@ -5,8 +5,7 @@
 </p>
 <ul>
   <li>I worked as a Backend developer with <strong>Python</strong> 🐍</li>
-  <li>I currently work as a Frontend developer with <strong>Angular</strong> 🅰 and <strong>React</strong> ⚛️</li>
-  <li>I currently learning <strong>Nest</strong> 🪹</li>
+  <li>I currently work as a Fullstack developer with <strong>Nest</strong> 🪹 and <strong>React</strong> ⚛️</li>
 </ul>
 
 
